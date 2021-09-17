@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Motion_layout</string>
+    <string name="about_us">My Movie App is the world’s most popular and authoritative source for movie, TV, and celebrity content. Explore popular movies and TV shows, entertainment news, and the latest awards and events. Track what you want to watch using your Watchlist, and rate movies and shows you’ve seen. Watch video – including exclusive IMDb Originals, trailers, behind-the-scenes clips, and more. Get showtimes near you, buy tickets, and read critic and user reviews.</string>
+    <string name="app_overview">Overview :</string>
+    <string name="app_home">Home</string>
+    <string name="app_nav_notification">Notification</string>
+    <string name="app_profile">Profile</string>
+    <string name="app_more">More</string>
+    <string name="app_loading">Loading</string>
+    <string name="this_is_very_very_very_very_long_title">This is very very very very long title</string>
+</resources>
